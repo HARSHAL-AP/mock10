@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "player_name": "Bhau Kadam",
+      "score":8
+     
+    },
+    {
+      "id": 2,
+      "player_name": "Appa Patil",
+      "score":5
+    },
+    {
+      "id": 3,
+      "player_name": "Tatya Sheth ",
+      "score":10
+    }
+  ]
+}
